@@ -66,7 +66,7 @@ String defaultNumericProcessor(dynamic value) {
 
   return withDotSeperation;
 }
-String defaultBooleanProcessor(dynamic value) => value as bool ? ':heavy_check_mark:' : ':x:';
+String defaultBooleanProcessor(dynamic value) => value as bool ? '✔️' : '❌';
 
 enum Alignment {
   LEFT, CENTER, RIGHT
