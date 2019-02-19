@@ -18,6 +18,9 @@ I ran the following command five times;
 `dart code.dart 20000000 2573284342`  
 - 20.000.000 samples
 - The RNG's seed is 2573284342
+
+The source code can be found here;  
+[code.dart](https://github.com/thomasio101/dart-performance-testing/blob/master/experiments/experiment-1/code.dart)
 ## Results
 ### Run 1
 | Positional arguments | Named arguments | Run time **(μs)** |
