@@ -1,0 +1,2 @@
+@tatumizer : I'm currently working on improving the experiment, I'm taking quite some time, but I hope to get the results out before the end of the week!
+**EDIT** Good idea, maybe we should move this discussion somewhere else, until we have results that would be meaningful to the discussion about destructuring.
